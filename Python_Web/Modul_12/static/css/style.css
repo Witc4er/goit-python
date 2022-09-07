@@ -1,0 +1,15 @@
+/* general */
+
+html {
+  font-family: "Montserrat";
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.row {
+  margin: 0 !important;
+}
